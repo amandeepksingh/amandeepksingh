@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working as a CX/Product Intern @ Skyflow. 
+- 🌱 I’m currently learning CS @ UMass Amherst
+- 📫 How to reach me: amandeepkaur@umass.edu 
+- 😄 Pronouns: she/her/hers
