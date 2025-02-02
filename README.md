@@ -15,11 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working as a CX/Product Intern @ Skyflow. 
-- 🌱 I’m currently learning CS @ UMass Amherst!
-- 📫 How to reach me: amandeepkaur@umass.edu
-- 😄 Pronouns: she/her/hers
+- 🔭 I’m currently working as a CX/Product Intern @ Skyflow.
+- 🌱 I’m currently learning Computer Science at UMass Amherst!
+- 📫 How to reach me: [amandeepkaur@umass.edu](mailto:amandeepkaur@umass.edu)
+- 😄 Pronouns: She/Her/Hers
 
-- Resume: https://drive.google.com/file/d/1ahzEXXUBKCLSL7bNhB_-Qn_waKpWuzZu/view?usp=sharing
-- Personal Site: https://sites.google.com/umass.edu/amandeepkaursingh 
-- LinkedIn: https://www.linkedin.com/in/amandeep-kaur-singh/
+### Links:
+- [Resume](https://drive.google.com/file/d/1ahzEXXUBKCLSL7bNhB_-Qn_waKpWuzZu/view?usp=sharing)
+- [Personal Site](https://sites.google.com/umass.edu/amandeepkaursingh)
+- [LinkedIn](https://www.linkedin.com/in/amandeep-kaur-singh/)
