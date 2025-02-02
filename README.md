@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: amandeepkaur@umass.edu
 - 😄 Pronouns: she/her/hers
 
-Resume: https://drive.google.com/file/d/1ahzEXXUBKCLSL7bNhB_-Qn_waKpWuzZu/view?usp=sharing
-Personal Site: https://sites.google.com/umass.edu/amandeepkaursingh 
-LinkedIn: https://www.linkedin.com/in/amandeep-kaur-singh/
+- Resume: https://drive.google.com/file/d/1ahzEXXUBKCLSL7bNhB_-Qn_waKpWuzZu/view?usp=sharing
+- Personal Site: https://sites.google.com/umass.edu/amandeepkaursingh 
+- LinkedIn: https://www.linkedin.com/in/amandeep-kaur-singh/
