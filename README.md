@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working as a CX/Product Intern @ [Skyflow](http://skyflow.com).
+- 🔭 I’m currently working as a CX/Product Intern @ [Skyflow](http://skyflow.com)
 - 🌱 I’m currently learning Computer Science at UMass Amherst!
 - 📫 How to reach me: [amandeepkaur@umass.edu](mailto:amandeepkaur@umass.edu)
 - 😄 Pronouns: She/Her/Hers
