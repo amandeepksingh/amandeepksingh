@@ -15,12 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently taking a semester off from school to work as a Software Engineering + Product Intern on the CX/Product Team @ [Skyflow](http://skyflow.com)
-- 🌱 I’m currently studying Computer Science at UMass Amherst - on track to graduate in May 2026!
+- 🌱 Studying Computer Science at UMass Amherst - graduating in May 2026!
+- 🔭 DE @ Meta, SWE + Product @ Skyflow, DS @ Microsoft, AI TPM @ Microsoft, ML @ UCSD  
 - 📫 How to reach me: [amandeepkaur@umass.edu](mailto:amandeepkaur@umass.edu)
 - 😄 Pronouns: She/Her/Hers
 
 ### Links:
-- [Resume](https://drive.google.com/file/d/1ahzEXXUBKCLSL7bNhB_-Qn_waKpWuzZu/view?usp=sharing)
 - [Personal Site](https://sites.google.com/umass.edu/amandeepkaursingh)
 - [LinkedIn](https://www.linkedin.com/in/amandeep-kaur-singh/)
